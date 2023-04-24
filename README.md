@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Travel</h1>
-    <img width="800px" height="650px" src="https://user-images.githubusercontent.com/119967485/234091207-3dfe3cfb-8abf-4d9c-a00c-921b0092c6ba.png" />
+    <img width="800px" height="400px" src="https://user-images.githubusercontent.com/119967485/234091207-3dfe3cfb-8abf-4d9c-a00c-921b0092c6ba.png" />
 </div>
 
 # Atividade de React JS 
